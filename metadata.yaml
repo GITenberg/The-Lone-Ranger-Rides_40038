@@ -1,0 +1,47 @@
+_repo: The-Lone-Ranger-Rides_40038
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, W. A.
+    gutenberg_agent_id: '38852'
+    url: http://www.gutenberg.org/2009/agents/38852
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Striker, Fran
+    alias: Striker, Francis Hamilton
+    birthdate: 1903
+    deathdate: 1962
+    gutenberg_agent_id: '40381'
+    url: http://www.gutenberg.org/2009/agents/40381
+description: The lifeless bodies of Texas Rangers lay scattered on the floor of Bryant's
+  Gap. One man, wounded and left for the buzzards, comes back to consciousness and
+  vows to bring the killers to justice. Now known only as the Lone Ranger, this man,
+  his steadfast horse, Silver, and trusted friend, Tonto, set out to bring justice
+  to the men who ambushed him and his fellow rangers. With a 'Hi-Yo Silver, Away-y-y-y,'
+  the Lone Ranger embodies classic American ideals of the champions of the Wild West.
+  The Lone Ranger first found success as a 1933 radio show, then expanded into books,
+  television, comics, and motion pictures. This iconic character has been portrayed
+  George Seaton, Clayton Moore, and by Armie Hammer in the 2013 movie release The
+  Lone Ranger (with Johnny Depp as Tonto). HarperPerennial Classics brings great works
+  of literature to life in digital form, upholding the highest standards in ebook
+  production and celebrating reading in all its forms. Look for more titles in the
+  HarperPerennial Classics collection to build your digital library.
+gutenberg_issued: '2012-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Tonto (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Lone Ranger (Fictitious character) -- Juvenile fiction'
+title: The Lone Ranger Rides
+url: http://www.gutenberg.org/ebooks/40038
